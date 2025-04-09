@@ -15,7 +15,7 @@ const projects = [
   },
   {
     name: "BT1 - AMI",
-    cod: "16/10/2021",
+    cod: "01/11/2021",
     acceptance: "26/10/2021",
     fit: "FIT 1",
     risk: "Trung bình",
