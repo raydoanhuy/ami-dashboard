@@ -1,4 +1,5 @@
 "use client";
+import React from "react";
 
 import { Card, CardContent } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
@@ -33,7 +34,7 @@ const projects = [
   },
 ];
 
-export default function Dashboard() {
+export default function AIDashboard() {
   return (
     <div className="grid grid-cols-1 md:grid-cols-2 gap-4 p-6">
       {projects.map((project, index) => (
